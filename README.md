@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abChimp
 - 👀 I’m interested in hardware, Linux, independent OS, programming
 - 🌱 I’m currently learning Front-End Web Development
-- 📫 How to reach me ...
+- 📫 Send me a Telegram ... https://t.me/abChimp
 
 <!---
 abChimp/abChimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
